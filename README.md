@@ -8,7 +8,7 @@
 2. Đếm số lượng phần tử số lẻ trong mảng
 
 - Mảng ban đầu: `[1, 3, 6, 8, 10]`
-- Kết quả mong đợi: `5`
+- Kết quả mong đợi: `2`
 
 3. Tìm giá trị lớn nhất trong mảng
 
