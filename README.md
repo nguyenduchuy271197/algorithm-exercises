@@ -25,7 +25,7 @@
 - Mảng ban đầu: `[1, 3, 5]`, giá trị cần tìm `x = 5`
 - Kết quả mong đợi: `true`
 
-6. Lọc ra các phần tử khác nil trong mảng 6. Nối chuỗi các phần tử mảng thành string
+6. Nối chuỗi các phần tử mảng thành string
 
 - Mảng ban đầu: `[1, 2, 3]`
 - Kết quả mong đợi: `"123"`
