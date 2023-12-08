@@ -5,7 +5,7 @@
 - Mảng ban đầu: `[1, 2, 3, 4, 5, 6]`
 - Kết quả mong đợi: `[2, 4, 6]`
 
-2. Đếm số lượng phần tử trong mảng
+2. Đếm số lượng phần tử số lẻ trong mảng
 
 - Mảng ban đầu: `[1, 3, 6, 8, 10]`
 - Kết quả mong đợi: `5`
